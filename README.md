@@ -1,3 +1,7 @@
+# Project Demo
+![Untitled2](https://user-images.githubusercontent.com/37850959/171152495-9b311e81-70d4-447d-896f-9e66ceb07c26.gif)
+
+
 # Slide Puzzle Game
 The 8-puzzle is a sliding puzzle that is played on a 3-by-3 grid with 8 square tiles labeled 1 through 8, plus a blank square. The goal is to rearrange the tiles so that they are in row-major order, using
 as few moves as possible. In this program, user can provide any puzzle, the computer will provide step by step solution
